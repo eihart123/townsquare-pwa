@@ -1,4 +1,5 @@
-[!NOTE] this does not function as I intend yet
+> [!NOTE]
+> This does not function as I intend yet
 
 # Blood on the Clocktower Grimoire & Town Square
 
