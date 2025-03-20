@@ -1,3 +1,5 @@
+[!NOTE] this does not function as I intend yet
+
 # Blood on the Clocktower Grimoire & Town Square
 
 > :warning: **This project is no longer actively maintained** and will only receive critical bug fixes. :warning:
